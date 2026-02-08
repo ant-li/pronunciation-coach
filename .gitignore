@@ -1,0 +1,5 @@
+data/**/*.wav
+data/**/*.m4a
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
