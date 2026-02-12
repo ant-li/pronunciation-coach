@@ -1,0 +1,36 @@
+{
+  "word": "pronunciation",
+  "sr": 16000,
+  "vowels": [
+    {
+      "phone": "AH0",
+      "t0": 0.07,
+      "t1": 0.12,
+      "stress": 0
+    },
+    {
+      "phone": "AH2",
+      "t0": 0.2,
+      "t1": 0.27,
+      "stress": 2
+    },
+    {
+      "phone": "IY0",
+      "t0": 0.47,
+      "t1": 0.58,
+      "stress": 0
+    },
+    {
+      "phone": "EY1",
+      "t0": 0.58,
+      "t1": 0.7,
+      "stress": 1
+    },
+    {
+      "phone": "AH0",
+      "t0": 0.83,
+      "t1": 0.91,
+      "stress": 0
+    }
+  ]
+}
